@@ -1,0 +1,19 @@
+# Unreal Engine generated files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+.vs/
+
+# Project and plugin content assets are excluded from this public source-only upload
+Content/
+
+# IDE and compiler output
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pdb
+*.ilk
+*.obj
